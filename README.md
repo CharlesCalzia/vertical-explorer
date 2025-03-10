@@ -97,7 +97,7 @@ This will:
 
 ### Example Output
 
-An example of the generated PDF report can be found in the repository as [Verticals Research Report](Verticals Research Report.pdf).
+An example of the generated PDF report can be found in the repository [here](research_report.pdf).
 
 ## License
 
