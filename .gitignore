@@ -1,0 +1,4 @@
+verticals/
+__pycache__/
+venv/
+.env

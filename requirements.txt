@@ -1,0 +1,5 @@
+requests
+python-dotenv
+notion-client
+markdown
+weasyprint
